@@ -1,4 +1,8 @@
+//API
+// const MY_KEY = process.env.REACT_APP_RAWG_API_KEY;
+
 //Base URL
+// const base_url = `https://api.rawg.io/api/games?key=${MY_KEY}`;
 const base_url = 'https://api.rawg.io/api/';
 
 //Getting Month
